@@ -16,3 +16,4 @@
 - [W3Schools](https://www.w3schools.com/): Tutoriales interactivos para aprender desde HTML hasta bases de datos.
 - [JSFiddle](https://jsfiddle.net/): Herramienta en línea para probar y compartir fragmentos de código HTML, CSS y JavaScript.
 - [CSS Tricks](https://css-tricks.com/): Blog y tutoriales sobre CSS y desarrollo frontend.
+- [Learn Git Branching](https://learngitbranching.js.org/): Aplicación para aprender a manejar los conceptos que hay detrás del trabajo con branches en Git.
